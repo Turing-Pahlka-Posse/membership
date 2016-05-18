@@ -49,10 +49,10 @@
   * github username: patrickwhardy
   * slack username:
 
-**Nick Dorans**
-  * email: 
+**Nicholas Dorans**
+  * email: nicky_bobby@icloud.com
   * github username: NickyBobby
-  * slack username:
+  * slack username: @nickynonaps
 
 **Erin Greenhalgh**
   * email: 
