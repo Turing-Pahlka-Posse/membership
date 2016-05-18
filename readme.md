@@ -40,9 +40,9 @@
   * slack username:
 
 **July Tran**
-  * email: 
-  * github username: 
-  * slack username:
+  * email: julyytran@gmail.com
+  * github username: julyytran
+  * slack username: @july
   
 **Patrick Hardy**
   * email: 
