@@ -2,13 +2,10 @@
 
 ## 1603
 
-##### Leadership
-
-* Beth Sebian - email: , github username: , slack username:
-* July Tran - email: , github username: , slack username:
-
 ##### Members
 
+* July Tran - email: , github username: , slack username:
+* Beth Sebian - email: , github username: , slack username:
 * Kerry Sheldon - email: , github username: , slack username:
 * Christine Gamble - email: , github username: , slack username:
 * Thom Pickett - email: , github username: , slack username:
@@ -19,14 +16,11 @@
 
 ## 1605
 
-##### Leadership
+##### Members
 
 * Kerry Sheldon - email: , github username: , slack username:
 * Thom Pickett - email: , github username: , slack username:
 * Christine Gamble - email: , github username: , slack username:
-
-##### Members
-
 * Kerry Sheldon - email: , github username: , slack username:
 * Christine Gamble - email: , github username: , slack username:
 * Sonia Gupta - email: , github username: , slack username:
