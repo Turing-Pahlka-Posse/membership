@@ -10,9 +10,9 @@
   * slack username: @thomp
 
 **Kerry Sheldon**
-  * email: 
+  * email: kerry.sheldon@gmail.com
   * github username: kjs222
-  * slack username:
+  * slack username: @kerry
 
 **Christine Gamble**
   * email: 
@@ -74,9 +74,9 @@
   * slack username:
   
 **Kerry Sheldon**
-  * email: 
+  * email: kerry.sheldon@gmail.com
   * github username: kjs222
-  * slack username:
+  * slack username: @kerry
   
 **Christine Gamble**
   * email: 
