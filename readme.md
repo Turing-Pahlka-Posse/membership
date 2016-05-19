@@ -69,9 +69,9 @@
   * slack username:
 
 **Beth Sebian**
-  * email: 
-  * github username: 
-  * slack username:
+  * email: esebian@gmail.com
+  * github username: bethsebian
+  * slack username: @bethsebian
   
 **Kerry Sheldon**
   * email: kerry.sheldon@gmail.com
