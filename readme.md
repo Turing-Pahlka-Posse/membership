@@ -59,6 +59,11 @@
   * github username: 
   * slack username:
 
+**Ryan Flach**
+  * email: ryanflach@gmail.com
+  * github username: ryanflach
+  * slackusername: @ryanflach
+
 ## 1603
 
 #### Members
